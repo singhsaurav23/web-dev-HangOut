@@ -1,5 +1,5 @@
 ## Hang Out!
-This is a fully functional dynamic website where people can upload the different restaurants acroos bangalore which are worth to spend money and time.
+This is a fully functional dynamic website where people can upload the different restaurants acroos bangalore which are worth to spend.
 
 #### Functions:
 Authorization, Authentication, Data Persistence, Rest API, Data Associations, Databases(MongoDB Atlas)
